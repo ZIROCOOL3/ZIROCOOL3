@@ -20,7 +20,7 @@ jobs:
         with:
           username: zirocool3
           file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push trophy.svg
         uses: stefanzweifel/git-auto-commit-action@v5

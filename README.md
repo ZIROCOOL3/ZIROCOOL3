@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./trophy.svg" alt="zirocool3" /></a> </p>
 
+<h2>🏆 Certificaciones e Insignias</h2>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2f9a8c70-db4f-48e6-ad3d-5e99cc2059d2/public_url">
+    <img
+      src="perfil/aws-badge.png"
+      alt="Insignia AWS Academy"
+      width="150"
+    />
+  </a>
+</p>
+
 <h3 align="left">Conecta Conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/javierestebancanteros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierestebancanteros" height="30" width="40" /></a>

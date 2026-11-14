@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.credly.com/badges/2f9a8c70-db4f-48e6-ad3d-5e99cc2059d2/public_url">
     <img
-      src="perfil/aws-badge.png"
+      src="perfil/insignia-aws-badge.png"
       alt="Insignia AWS Academy"
       width="150"
     />
